@@ -139,17 +139,6 @@ $ git clone https://github.com/kavya-r30/Anti-Kaleshi-Inheritance.git
 ```
 
   
-## 👨‍💻Team Members
-
-- [Team Member 1 Kavya Rambhia](https://github.com/kavya-r30): kavyarambhia07@gmail.com
-- [Team Member 2 Kevin Shah](https://github.com/kevinzb56): 143kevinshah@gmail.com
-- [Team Member 3 Mihir Katakdhond](https://github.com/mihir-k64): mihirkatakdhond@gmail.com
-- [Team Member 4 Swayam Shah](https://github.com/Sonu0305): swayamshah66@gmail.com
-  
-## 👨‍🏫Mentors
-
-- [Aaditya Jayant Padte](https://github.com/Aaditya8C): aadityajp0419@gmail.com
-- [Aniket Suresh Jadhav](https://github.com/DevAniket010): aj230375@gmail.com
 
 ## 📱Screenshots
 ![Screenshot](https://drive.google.com/uc?export=view&id=1rxislqKigCFPhtAJqNbgKGlvK4O1G1ia)
